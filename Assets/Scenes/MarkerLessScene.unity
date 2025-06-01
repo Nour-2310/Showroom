@@ -637,7 +637,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14047f0fa38623f4b8b451140769b48a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vehiclePrefab: {fileID: 0}
+  vehiclePrefab: {fileID: 2880074544209135080, guid: 718bdfd9abfebec4585ce0d8f904d014,
+    type: 3}
 --- !u!4 &1978176648
 Transform:
   m_ObjectHideFlags: 0
