@@ -16,4 +16,14 @@ MonoBehaviour:
   m_GuidHigh: 0
   m_DataStore:
     m_Storage: []
-  m_Images: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5666840977331572888
+      m_GuidHigh: 13620692658904499865
+    m_SerializedTextureGuid:
+      m_GuidLow: 12651968812046953435
+      m_GuidHigh: 6509908254606054331
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: CarA
+    m_Texture: {fileID: 0}
