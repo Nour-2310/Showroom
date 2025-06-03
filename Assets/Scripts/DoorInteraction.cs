@@ -7,12 +7,12 @@ public class DoorInteraction : MonoBehaviour
     public Animator doorAnimator;
     private bool isOpen = false;
 
-    void OnMouseDown()
+    public void ToggleDoor()
     {
         if (doorAnimator != null)
         {
             isOpen = !isOpen;
-            doorAnimator.SetBool("Open", isOpen);
+            doorAnimator.SetBool("isOpen", isOpen);
         }
     }
 }
