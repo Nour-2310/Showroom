@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: VehicleImageLibrary
   m_EditorClassIdentifier: 
-  m_GuidLow: 0
-  m_GuidHigh: 0
+  m_GuidLow: 4821689698420838156
+  m_GuidHigh: 12238452469092484769
   m_DataStore:
     m_Storage: []
   m_Images:
@@ -26,4 +26,4 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: CarA
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: ff612bdbd299af94bb532d0c11d7575a, type: 3}
