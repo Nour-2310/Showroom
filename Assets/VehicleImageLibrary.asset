@@ -21,9 +21,19 @@ MonoBehaviour:
       m_GuidLow: 5666840977331572888
       m_GuidHigh: 13620692658904499865
     m_SerializedTextureGuid:
-      m_GuidLow: 12651968812046953435
-      m_GuidHigh: 6509908254606054331
+      m_GuidLow: 1712520723219024120
+      m_GuidHigh: 320022202000672281
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: CarA
-    m_Texture: {fileID: 2800000, guid: ff612bdbd299af94bb532d0c11d7575a, type: 3}
+    m_Name: Cupra
+    m_Texture: {fileID: 2800000, guid: 41f708f8188617c419067d467ff27004, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5390789570800633866
+      m_GuidHigh: 10013133337569939592
+    m_SerializedTextureGuid:
+      m_GuidLow: 11228686169419139320
+      m_GuidHigh: 14639726017622311976
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Mercedes
+    m_Texture: {fileID: 2800000, guid: 3691c8f84e949bd428046c993fc12acb, type: 3}
