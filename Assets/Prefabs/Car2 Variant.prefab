@@ -648,7 +648,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ecb03b4da9c6d145ac0aade04af5acc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  doorAnimator: {fileID: 0}
+  doorAnimator: {fileID: 1837886326629621616}
 --- !u!95 &1837886326629621616
 Animator:
   serializedVersion: 5
