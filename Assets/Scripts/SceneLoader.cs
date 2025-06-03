@@ -1,19 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-using UnityEngine;
-using UnityEngine.SceneManagement; // ← THIS LINE IS MISSING
+using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
 {
-    public void LoadMarkerless()
+    // Call this from the "Marker-less Experience" button
+    public void LoadMarkerlessScene()
     {
-        SceneManager.LoadScene("MarkerLessScene");
+        SceneManager.LoadScene("MarkerLessScene"); // Replace with your actual scene name
     }
 
-    public void LoadMarkerbased()
+    // Call this from the "Marker-based Experience" button
+    public void LoadMarkerbasedScene()
     {
-        SceneManager.LoadScene("MarkerBasedScene");
+        SceneManager.LoadScene("MarkerBasedScene"); // Replace with your actual scene name
     }
 }
+
